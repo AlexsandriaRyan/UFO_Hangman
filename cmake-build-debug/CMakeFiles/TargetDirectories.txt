@@ -1,0 +1,3 @@
+C:/Users/alexs/Documents/Work/Portfolio/UFO_Hangman/cmake-build-debug/CMakeFiles/UFO_Hangman.dir
+C:/Users/alexs/Documents/Work/Portfolio/UFO_Hangman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alexs/Documents/Work/Portfolio/UFO_Hangman/cmake-build-debug/CMakeFiles/rebuild_cache.dir

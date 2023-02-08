@@ -1,0 +1,4 @@
+# ninja log v5
+0	281	6975803081583318	CMakeFiles/UFO_Hangman.dir/src/ufo_functions.cpp.obj	6cb926068b66e084
+3	313	6975803081903308	CMakeFiles/UFO_Hangman.dir/src/ufo.cpp.obj	cdf4eb689d5381
+313	403	6975803082763459	UFO_Hangman.exe	5201f7d1766385d8
